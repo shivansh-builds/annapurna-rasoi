@@ -3,7 +3,6 @@
 
 📌 Project Overview
 
-
 Annapurna Rasoi is a web-based restaurant management system developed using HTML, CSS, and JavaScript. The system provides an interactive platform for customers to explore the menu, add items to the cart, and place orders, while also enabling administrators to manage inventory and monitor orders.
 
 🎯 Objectives
